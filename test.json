@@ -1,0 +1,19 @@
+{
+  "value": {
+    "sender": {
+      "id": "SENDER_ID"
+    },
+    "recipient": {
+      "id": "RECIPIENT_ID"
+    },
+    "timestamp": 1234567890,
+    "message": {
+      "mid": "MESSAGE_ID",
+      "text": "Message text here",
+      "commands": [
+        { "name": "command1" },
+        { "name": "command2" }
+      ]
+    }
+  }
+}
